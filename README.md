@@ -34,6 +34,8 @@ def channeltype(x):
 
 #calling the function
 channeltype("Music")
+#calling the function
+channeltype("Games")
 
 #Converting data frame into a csv
 df2.to_csv (r'D:\Data Analytics Sem1\1200 Intro to data\Top1000_YT.csv', index = False, header=True)
