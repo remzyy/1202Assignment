@@ -1,5 +1,5 @@
 # 1202Assignment
-# The code is to read 'youtube_dataset.csv' file and  select the top 1000 dataset onthe basis if subscribers
+# The code is to read 'youtube_dataset.csv' file and  select the top 1000 dataset on the basis if subscribers
 import pandas as pd
 import matplotlib.pyplot as plt
 
